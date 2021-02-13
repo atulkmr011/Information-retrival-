@@ -1,0 +1,63 @@
+1	"The Chaldean account of Genesis : containing the description of the creation, the deluge, the tower of Babel, the destruction of Sodom, the times of the Patriarchs, and Nimrod, Babylonian fables, and legends of the gods : from the cuneiform inscripti"	George Smith
+2	"UI Architect, Software Architect, Angular, Angular.js, CSS, HTML,"	UI Architect
+3	"Search Engine Optimization mandatory, API Development, UI Development"	Full Stack Java Developer (Search Engine Optimisation mandatory)
+4	"SQL, server developer, business intelligence"	SQL Server Developer (Business Intelligence Analyst)
+5	(SDMS OR SCIENTIFIC DATA MANAGEMENT SYSTEM ) AND(SYSTEM ADMINISTRATOR ) AND (GXPHARMA )	SDMS Administrator
+6	"ITIL, SLA, Vendor Management, Service Desk, Revenue, Client Satisfaction"	IT Service Delivery Manager
+7	"Capacity Planning, Exchange, Linux, Linux Administrator, Manager, Management, Project, Project Management, QA, Security, SQL, SQL Server, Switches, System Administrator, VMware, Windows"	Watsonville System Administrator
+8	"Testing, Business Analyst, Data Analyst, Technical Consultant, User Story, Agile, Sprint, Kanban, Testing, QA, Quality Assuance, Jira HP QC"	Test Lead
+9	mongodb	"MongoDB,Oracle 11gR2/12c,SQL"
+10	Senior Business Analyst	"Business Analyst, QA, HIPPA, .NET, ASP.NET"
+11	SAP Basis Lead consultant	SAP Basis
+12	Product Manager (intranet product / finance client)	"SharePoint, Jive, WordPress, Drupal, SquareSpace, Lithium, Yammer, Slack"
+13	"Seeking a Java Backend Server SW for Global Cloud Team Mountain View,"	JAVA LInux
+14	Big Data Engineer	"""Hadoop"" ""Bigdata"" ""Big data"" ""hive"""
+15	"Hiring full time Java developer Sunnyvale, CA"	"Advanced java, Restful API's, Python, Perl, Digital Marketing & Advertisement domain knowledge would be value addition."
+16	Anaplan Solution Architect / Consultant	"Anaplan Solution, Anaplan Support, Anaplan implementation, Anaplan, Anaplan, Anaplan, Anaplan, Anaplan"
+17	Desktop Support/Workstation Engineer	Desktop Support/Workstation Engineer
+18	"Staff Software Engineer (Cloud Platform) - Foster City, CA"	"core AWS, Azure, Google Cloud Platform,distributed systems, load balancing, message queuing, service discovery, networking, data storage, security, Java, JavaScript, Node.js, SaaS, Paa, enterprise"
+19	Project Manager - Lawson ERP	"Lawson ERP, Project Management"
+20	c++ java automation	software engineer
+21	"linux/unix, network monitoring, incident response, systems administration, security accessment"	Information Security Engineer
+22	"Enterprise Solutions Architecture, business inteligence, reports, reporting"	Business Solutions Architect
+23	"JavaScript, HTML5, CSS3, Bootstrap, AJAX, React, Angular, Ember, Backbone"	"Java Developer (mid level)- FT- GREAT culture, modern technologies, career growth"
+24	"Configuration Management, Developer, Linux, Management, Process Engineering, VMware"	DevOps Engineer
+25	"FICO, AR, AP, Asset Management, HAHA"	SAP FICO Architect
+26	"Cisco, DNS, HTTP, Networking, Network Engineer, Security, Video, VPN, Wireless"	Network Engineer
+27	".NET , C#, MVC, RESTful web services, HTTP, AWS, Azure, OOP"	Sr. Web Application Developer (Cloud Team) - Chicago
+28	PM/Scrum Master/QA person with this experience.	Alfresco Expert
+29	"UI; .Net,Javascript;HTML"	.Net/Frontend Developer
+30	"Firewalls, load balancing, routing, switching, cable modems, wireless"	Network Engineer
+31	"SSIS, SSRS, Agile, BI"	SSIS Develolper
+32	Windows Desktop Support Active Directory	Windows Desktop Support Engineer - SJ
+33	"""ASIC"",""SOC"", ""Verification"", ""SystemVerilog"", ""UVM"""	ASIC Verification Engineer
+34	"Ecommerce, Retail"	Business Analyst (ecommerce)
+35	"Expert knowledge of libavcodec, libavformat etc required."	Video Process Engineer
+36	"0 - 5 years experience. Selling hardware/software products & solutions into Enterprise, Verticals, Content Service Providers, and large accounts a plus."	Sales Account Manager
+37	"Empower3, LIMPS"	Empower Administrator
+38	"UI/UX mobile apps, interaction design, digital media design, fine arts, Adobe Creative Suite, Sketch, Invision, UI design"	Web Designer
+39	"JavaScript, HTML5, CSS3, Bootstrap, AJAX, React, Angular, Ember, Backbone"	Senior Front End Web Developer - Full Time at Visa
+40	"SDLC, ALM, SQL, T-SQL, RedGate, Team Foundation Server, Visual Studio, .NET, XML, HTML, C#, ASP, UAT, SIT, IIS Administration, SQL 2008"	QA Analyst
+41	"Python, Ruby, Go, Clojure, Java, NoSQL-Database, SQL, JaveScript, Node,"	Tech Lead-Full Stack
+42	"Curam, Share Point, IBM DB2, Q-Manager, HP ALM"	Sr. Curam Tester
+43	"Altera, Assembly, CCA, Circuit, Defense Systems, Development, Electrical Engineer, Flash, Graphics, Hardware, HTTP, Materials, Matlab, Release, Security, Simulation, Testing"	Engineer Electronics 4
+44	"RESTful, NodeJS, JavaScript"	Full Stack Developer
+45	"Business Requirements, Cognos, Data Warehouse, Epic, IT, Management, MySQL, mysql, Programming, Project, Project Management, SQL"	Enterprise Analytics Leads
+46	Jr SQL server DBA	Entry Level Software Engineer
+47	"JSF, Servlets, JSP, JSTL, and IceFaces, AJAX, CSS, DHTML, JavaScript, XHTML"	Programmer II- Java Developer
+48	Sr. Software Development Engineer - (OPC/RET)	Sr. Software Development Engineer - (OPC/RET)
+49	"quant, quantitative, credit trading, fixed income, desk quant"	desk quant - credit trading - major investment bank
+50	Endeca Commerce	Endeca Commerce Consultant
+51	"SOC ""SIEM"" ""Information Security"" ""CIM"" ""Data Analysis"""	SOC Analyst
+52	"Analysis, Development, Excel, Hardware, HTTP, Management, Materials, Mechanical, PowerPoint, Protocols, Quality Assurance, Research, SAP, Statistical Analysis, Testing"	Engineer Quality 3
+53	Sr. Lab Systems Engineer	Sr. Lab Systems Engineer
+54	"Software quality assurance, MS Office, Certifications or training in ISO, CMMI, Six Sigma methodologies, CSQA, Agile, PLM"	Sr. Software Quality Assurance Consultant
+55	"C++, C#, Database, Developer, Filemaker, Java"	Database Developer
+56	"Vantage, IBM MVS, TSO, JCL, COBOL, Expediter, Debug, Princeton SoftTech, FileAid, DB2, coding"	Vantage-One Developer
+57	"Applications, B2B, Computer, Content Management, Development, Engineering, HTML, Java, Lifecycle, Manager, Management, PHP, Project, Project Management, Project Manager, Python, Release, SDLC, Software, SQL, Systems, Web, XML"	SDLC Project Manager
+58	QA/Performance Engineer-Beanshell/C a must	QA/Performance Engineer-Beanshell/C a must
+59	"Levels 1-3 tech support experience, Any Ticketing system , LAN administration, MS Operating Systems, Diagnosing & Troubleshooting, Willing to travel outside of NY & NJ offices, Willing to work nig"	Desktop Support/Helpdesk
+60	GSC-ITS - Lead Data Engineer	GSC-ITS - Lead Data Engineer
+61	"Omnigraffle, InDesign, Illustrator"	UX Designer/Architect (MID-LEVEL)
+62	Java and ATG	Java with ATG
+63	market research	Market Research and Business Development Intern
